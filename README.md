@@ -14,3 +14,5 @@ To compile the code type:
 
     make intel  OR
     make gfortran
+
+Note: make script not working with gcc/8.3, use gcc/4.9.
